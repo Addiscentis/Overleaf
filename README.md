@@ -1,3 +1,3 @@
 # Overleaf
 
-Added puls from overleaf.com
+Added pulls from overleaf.com
